@@ -1,0 +1,19 @@
+<annotation>
+    <folder>34</folder>
+    <filename>images0.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>combustible</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>125</xmin>
+            <ymin>30</ymin>
+            <xmax>177</xmax>
+            <ymax>287</ymax>
+        </bndbox>
+    </object>
+</annotation>
