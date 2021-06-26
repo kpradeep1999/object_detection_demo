@@ -1,0 +1,29 @@
+<annotation>
+    <folder>untitled folder 14</folder>
+    <filename>vest4.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>safety</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>447</xmin>
+            <ymin>81</ymin>
+            <xmax>604</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>392</xmin>
+            <ymin>231</ymin>
+            <xmax>624</xmax>
+            <ymax>545</ymax>
+        </bndbox>
+    </object>
+</annotation>
